@@ -15,6 +15,9 @@
 ### 忍者
 - [忍者mod](https://github.com/hirmiura/cdda-mod-Ninja)
 
+# メモ
+- [醸造に関するメモ](memo_brew.md)
+
 # お願い
 **MOD作者の方々へ**  
 ライセンスを是非とも明記して下さい。
