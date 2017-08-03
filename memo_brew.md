@@ -87,12 +87,12 @@ class delayed_transform_iuse : public iuse_transform
 # 付録
 
 ## ターン換算表
-Turn | 時間
--:|-:
-1 | 6秒
-10 | 1分
-600 | 1時間
-14,400 | 1日
+  Turn |  時間
+------:|-----:
+     1 |   6秒
+    10 |   1分
+   600 | 1時間
+14,400 |   1日
 
 ## リンク
 - [JSON_INFO.md](https://github.com/CleverRaven/Cataclysm-DDA/blob/master/doc/JSON_INFO.md)
